@@ -1,9 +1,9 @@
 
-# EXCEED Funnel Report Dashboard
+# EXEED Funnel Report Dashboard
 
 ## Overview
 
-The **EXCEED Funnel Report Dashboard** is a professional Power BI project designed to provide end-to-end analysis of the **sales funnel**, tracking leads from initial contact to finalized sales.
+The **EXEED Funnel Report Dashboard** is a professional Power BI project designed to provide end-to-end analysis of the **sales funnel**, tracking leads from initial contact to finalized sales.
 
 The dashboard enables businesses to **monitor lead progression, evaluate conversion rates, and identify bottlenecks** in the sales process, supporting data-driven decision-making and strategic planning.
 
